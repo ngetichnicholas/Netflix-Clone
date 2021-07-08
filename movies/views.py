@@ -6,9 +6,7 @@ from django.contrib.auth.decorators import login_required
 
 # Create your views here.
 def index(request):
-  popular_movies = get_movies('popular')
-  upcoming_movies = get_movies('upcoming')
-  now_showing_movies = get_movies('now_playing')
+
 
   title = 'Netflix | Home'
 

@@ -33,6 +33,7 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG', default=False)
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
+API_KEY = config('API_KEY')
 
 # Application definition
 
@@ -43,10 +44,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'mypics',
+    'movies',
     'bootstrap3',
     'cloudinary',
-    'restembed.core',
     'rest_framework',
 ]
 
