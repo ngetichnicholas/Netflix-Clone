@@ -17,7 +17,7 @@ This is a replica of Netflix movie website built with Django Python framework. A
 ## Setup Instruction
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-1. Use this command to clone $ git clone https://github.com/ngetichnicholas/My-Gallery.git
+1. Use this command to clone $ git clone https://github.com/ngetichnicholas/Netflix-Clone.git
 1. This will clone the repositoty into your local folder
 *****
 ## Dependencies
@@ -36,7 +36,7 @@ To access this project on your local files, you can clone it using these steps
 * CSS
 ******
 ### Live Link
-Or you can access the web application directly via this [LIVE LINK](https://nick-gallery.herokuapp.com/).
+Or you can access the web application directly via this [LIVE LINK](https://nick-netflix.herokuapp.com/).
 *****
 ### License
 This project is under:  
