@@ -6,7 +6,7 @@ This is a replica of Netflix movie website built with Django Python framework. A
 ### Description
 This is a replica of Netflix movie website built with Django Python framework. A user can view the different movies available and search for their favorite  movies.It can also show the description Of the movie and its current rating.
 *****
-![alt text](https://res.cloudinary.com/dbos9xidr/image/upload/v1625826184/gafiqi.png)
+![alt text](https://res.cloudinary.com/dbos9xidr/image/upload/v1625827193/netflix-nick_fjlv26.png)
 *****
 ### Prerequisites
 * Python 3
