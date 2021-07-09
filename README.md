@@ -4,7 +4,9 @@ Nicholas Ngetich
 *****
 ### Description
 This is a replica of Netflix movie website built with Django Python framework. A user can view the different movies available and search for their favorite  movies.It can also show the description Of the movie and its current rating.
-
+*****
+![alt text](https://res.cloudinary.com/dbos9xidr/image/upload/v1625826184/screencapture-nick-netflix-herokuapp-2021-07-09-13_21_49_gafiqi.png)
+*****
 ### Prerequisites
 * Python 3
 * Text editor eg Visual Studio Code
