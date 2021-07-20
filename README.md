@@ -2,7 +2,6 @@
 ## Author
 Nicholas Ngetich
 *****
-This is a replica of Netflix movie website built with Django Python framework. A user can view the different movies available and search for their favorite movies.It can also show the description Of the movie and its current rating.
 ### Description
 This is a replica of Netflix movie website built with Django Python framework. A user can view the different movies available and search for their favorite  movies.It can also show the description Of the movie and its current rating.
 *****
